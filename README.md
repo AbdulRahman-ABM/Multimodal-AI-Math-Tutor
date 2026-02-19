@@ -2,7 +2,7 @@
 
 > An end-to-end AI tutor for JEE-style math problems, featuring Multimodal RAG, Multi-Agent Orchestration, and Self-Learning Memory.
 
-🔗 **Live Demo:** [Click Here to Open App](https://share.streamlit.io/munzahmed07/-Multimodal-Math-Mentor/main/app.py)
+
 
 ---
 
