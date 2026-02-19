@@ -1,4 +1,4 @@
-# 🧮 Reliable Multimodal Math Mentor
+# 🧮 Multimodal-AI-Math-Tutor
 
 > An end-to-end AI tutor for JEE-style math problems, featuring Multimodal RAG, Multi-Agent Orchestration, and Self-Learning Memory.
 
@@ -129,4 +129,4 @@ streamlit run app.py
 
 ## Created By
 
-Built by Munzer Ahmed
+Built by Abdul Rahman Ahmed Bin Mahfooz
