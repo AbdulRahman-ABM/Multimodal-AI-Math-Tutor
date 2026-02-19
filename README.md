@@ -84,7 +84,7 @@ graph TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/munzahmed07/-Multimodal-Math-Mentor.git
+git clone https://github.com/AbdulRahman-ABM/Multimodal-AI-Math-Tutor.git
 cd -Multimodal-Math-Mentor
 ```
 
